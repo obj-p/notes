@@ -1,5 +1,3 @@
-# KotlinConf 2024
-
 ## Pushing the limits of the Server Side UI platform with KMP | Paulina Sadowska
 
 > [Video](https://www.youtube.com/watch?v=PQSGD9ySuM0&list=PLq1zqU_rm4fjHfRCI2-xS8TycnzkQTC_m&index=1)
